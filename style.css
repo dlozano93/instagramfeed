@@ -1,0 +1,63 @@
+body{
+    background: blue;
+}
+.instagram-head{
+    background:white;
+    display: block;
+}
+.instagram-feed{
+    margin-top:70px;
+    margin:auto;
+    margin-bottom:70px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    background: blueviolet;
+    display: block;
+    width: 600px;
+    border: 4px dotted black;
+    box-shadow: 5px 5px 25px;
+    overflow: hidden;
+    
+}
+.user-info{
+    background: brown;
+    border: 1px solid gray;
+    overflow: hidden;
+}
+.username{
+    background: cyan;
+    width:78%;
+    float:left;
+    padding-left:2%;
+
+}
+.date{
+    background:pink;
+    width:18%;
+    float:right;
+    padding-left: 2%;
+}
+.picture{
+    background: saddlebrown;
+    margin:auto;
+    width:100%;
+    overflow: hidden;
+    
+}
+.picture img{
+    max-width: 100%;
+
+}
+.comment{
+    background: seagreen;
+    display:block;
+    width: 100%;
+    margin: auto;
+    margin-top: -8px;
+    float: left;
+    
+}
+.display-pic{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
