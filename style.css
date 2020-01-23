@@ -1,19 +1,12 @@
 body{
-<<<<<<< HEAD
     background:#eaeaea;
-=======
-    background: blue;
->>>>>>> 87a33e4062436b2106af771cc35442579b31c4c3
 }
 .instagram-head{
     background:white;
     display: block;
-<<<<<<< HEAD
     text-align: center;
     padding:1px;
     margin-bottom: 50px;
-=======
->>>>>>> 87a33e4062436b2106af771cc35442579b31c4c3
 }
 .instagram-feed{
     margin-top:70px;
@@ -21,57 +14,34 @@ body{
     margin-bottom:70px;
     padding-top: 0px;
     padding-bottom: 0px;
-<<<<<<< HEAD
     background: white;
     display: block;
     width: 600px;
     border: 4px black;
-=======
-    background: blueviolet;
-    display: block;
-    width: 600px;
-    border: 4px dotted black;
->>>>>>> 87a33e4062436b2106af771cc35442579b31c4c3
     box-shadow: 5px 5px 25px;
     overflow: hidden;
     
 }
 .user-info{
-<<<<<<< HEAD
     background: white;
-=======
-    background: brown;
->>>>>>> 87a33e4062436b2106af771cc35442579b31c4c3
     border: 1px solid gray;
     overflow: hidden;
 }
 .username{
-<<<<<<< HEAD
     background: white;
-=======
-    background: cyan;
->>>>>>> 87a33e4062436b2106af771cc35442579b31c4c3
     width:78%;
     float:left;
     padding-left:2%;
 
 }
 .date{
-<<<<<<< HEAD
     background:white;
-=======
-    background:pink;
->>>>>>> 87a33e4062436b2106af771cc35442579b31c4c3
     width:18%;
     float:right;
     padding-left: 2%;
 }
 .picture{
-<<<<<<< HEAD
     background: white;
-=======
-    background: saddlebrown;
->>>>>>> 87a33e4062436b2106af771cc35442579b31c4c3
     margin:auto;
     width:100%;
     overflow: hidden;
@@ -82,11 +52,7 @@ body{
 
 }
 .comment{
-<<<<<<< HEAD
     background: white;
-=======
-    background: seagreen;
->>>>>>> 87a33e4062436b2106af771cc35442579b31c4c3
     display:block;
     width: 100%;
     margin: auto;
